@@ -210,11 +210,9 @@ p {
 #Dropdown:hover .dropdown {
     /* opacity: 1; */
     display: flex;
-    /* pointer-events: all; */
+    
 }
-.dropdown.animate{
-    /* pointer-events: all; */
-}
+
 .dropdown a{
     display: block;
     color: #000000 !important;
@@ -225,15 +223,7 @@ p {
 }
 
 
-/* .under-deepdrop{
-    width: 550px;
-    position: absolute;
-    background-color: #fff;
-    color: #000000;
-    padding: 10px 10px;
-    top: 100px;
-    right: 20px;
-} */
+
 
 /* Banner section  */
 #home:hover{
