@@ -199,16 +199,13 @@ p {
     background-color: #fff;
     color: #000000;
     min-width: 150px;
-    /* opacity: 0; */
     display: none;
-    /* pointer-events: none; */
     
 }
 .dropdown ul li{
     margin-bottom: 20px;
 }
 #Dropdown:hover .dropdown {
-    /* opacity: 1; */
     display: flex;
     
 }
@@ -221,9 +218,6 @@ p {
 .dropdown.active{
     display: flex;
 }
-
-
-
 
 /* Banner section  */
 #home:hover{
@@ -1978,7 +1972,6 @@ sup {
     width: 1170px;
     height: 45vh;
     margin: auto;
-    /* padding: 70px 0; */
     display: grid;
     grid-template-columns: 2fr 1fr;
     justify-content: space-between;
@@ -2001,9 +1994,7 @@ sup {
 }
 
 .bimg-btn {
-    /* align-items: center; */
     padding: 15px 40px;
-    /* text-align: center;  */
     border-radius: 50px;
     background-color: var(--color2);
     cursor: pointer;
@@ -2011,7 +2002,6 @@ sup {
     font-size: 20px;
     border: none;
     transition: all .6s;
-    /* margin-left: 180px; */
     justify-content: end;
     align-items: end;
 }
